@@ -1,0 +1,7 @@
+{
+  "name": "PrimeNest Realty",
+  "description": "Premium luxury real estate platform for curated high-end properties and exclusive residential listings.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
